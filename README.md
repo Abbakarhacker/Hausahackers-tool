@@ -15,6 +15,9 @@ cd Hausahackers-tool
 python Hausahackers-tool.py
 
 ```
+## Screenshot
+
+<img src="core/lScreenshot_20230222-152914.png">
 
 YOUTUBE CHANNEL 
 https://youtube.com/@arewacyberwarriors
